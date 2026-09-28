@@ -1,0 +1,7 @@
+https://ml-classification-project-idornugzkmkvdlbsby9xqk.streamlit.app/
+pandas
+numpy
+scikit-learn
+xgboost
+streamlit
+matplotlib
